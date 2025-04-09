@@ -1,0 +1,17 @@
+
+.head{
+     height: 50px;
+    background-color: rgb(200, 222, 180);
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
